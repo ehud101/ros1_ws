@@ -88,7 +88,7 @@ Visualization Manager:
       Size (Pixels): 3
       Size (m): 0.0500000007
       Style: Flat Squares
-      Topic: /sickldmrs/scan0
+      Topic: /scanning
       Unreliable: false
       Use Fixed Frame: true
       Use rainbow: true
